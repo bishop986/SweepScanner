@@ -1,2 +1,2 @@
 # SweepScanner
-Inspire by scanse/sweep-sdk
+Inspired by scanse/sweep-sdk
